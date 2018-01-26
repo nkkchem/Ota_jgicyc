@@ -1,0 +1,625 @@
+Accepted   CPLX1IZ1-1          H+                       ATP       
+           predicted ATP-driven transporter of H+
+           ATP + H+[extracellular space] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   CPLX1IZ1-2          H+                       ATP       
+           predicted ATP-driven transporter of H+
+           ATP + H+[extracellular space] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IZ1-12973-MONOMER    cholesterol              UNKNOWN   
+           predicted mitochondrial cholesterol transporter
+           cholesterol[extracellular space]  ->  cholesterol[cytosol]
+Accepted   G1IZ1-12854-MONOMER    guanine                  UNKNOWN   
+           pattern-formation protein/guanine nucleotide exchange factor
+           guanine[extracellular space]  ->  guanine[cytosol]
+Accepted   G1IZ1-14951-MONOMER    a cation                 UNKNOWN   
+           predicted cation transporter
+           a cation[extracellular space]  <-->  a cation[cytosol]
+Accepted   G1IZ1-8431-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[extracellular space] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1IZ1-14915-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-14827-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-14786-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[extracellular space]  ->  a nucleotide sugar[cytosol]
+Accepted   G1IZ1-14752-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-14738-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[extracellular space]  ->  a nucleotide[cytosol]
+Accepted   G1IZ1-14738-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[extracellular space]  ->  guanine[cytosol]
+Accepted   G1IZ1-14734-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[extracellular space]  ->  chromate[cytosol]
+Accepted   G1IZ1-13403-MONOMER    a long-chain acyl-CoA    ATP       
+           long-chain acyl-coa transporter, abc superfamily (involved in peroxisome organization and biogenesis)
+           a long-chain acyl-CoA[extracellular space] + ATP + H2O  ->  a long-chain acyl-CoA[cytosol] + ADP + phosphate
+Accepted   G1IZ1-11485-MONOMER    a cobalamin              UNKNOWN   
+           catalytic activity//cobalamin biosynthetic process//high-affinity iron ion transport//iron ion transmembrane transporter activity
+           a cobalamin[extracellular space]  ->  a cobalamin[cytosol]
+Accepted   G1IZ1-15160-MONOMER    a cation                 UNKNOWN   
+           cation transmembrane transporter activity//cation transport
+           a cation[extracellular space]  <-->  a cation[cytosol]
+Accepted   G1IZ1-15114-MONOMER    Co2+                     UNKNOWN   
+           cobalamin biosynthetic process//cobalt ion transmembrane transporter activity//cobalt ion transport
+           Co2+[extracellular space]  ->  Co2+[cytosol]
+Accepted   G1IZ1-15093-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[extracellular space]  ->  choline[cytosol]
+Accepted   G1IZ1-13283-MONOMER    a nucleoside             UNKNOWN   
+           nucleoside transporter
+           a nucleoside[extracellular space]  ->  a nucleoside[cytosol]
+Accepted   G1IZ1-15055-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[extracellular space]  ->  a nucleotide sugar[cytosol]
+Accepted   G1IZ1-15025-MONOMER    Na+                      SECONDARY 
+           membrane//sodium ion transport//transporter activity
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-14996-MONOMER    a dicarboxylate          SECONDARY 
+           na+/dicarboxylate, na+/tricarboxylate and phosphate transporters
+           a dicarboxylate[extracellular space] + Na+[extracellular space]  ->  a dicarboxylate[cytosol] + Na+[cytosol]
+Accepted   G1IZ1-13163-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[extracellular space]  ->  phaseic acid[cytosol]
+Accepted   G1IZ1-13246-MONOMER    an acid                  UNKNOWN   
+           na+-bile acid cotransporter
+           an acid[extracellular space]  ->  an acid[cytosol]
+Accepted   G1IZ1-13149-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[extracellular space]  ->  phaseic acid[cytosol]
+Accepted   G1IZ1-11254-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[extracellular space] + H+[extracellular space]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IZ1-11201-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-11384-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-9336-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G1IZ1-9203-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[extracellular space]  ->  thiamine[cytosol]
+Accepted   G1IZ1-9154-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[extracellular space] + H+[extracellular space]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-9133-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-9459-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-9077-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G1IZ1-9464-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-7 and related proteins (clc superfamily)
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G1IZ1-9051-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-8940-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-8897-MONOMER    an acid                  UNKNOWN   
+           na+-bile acid cotransporter
+           an acid[extracellular space]  ->  an acid[cytosol]
+Accepted   G1IZ1-15229-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-15217-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-15210-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[extracellular space]  ->  a nucleotide sugar[cytosol]
+Accepted   G1IZ1-15208-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-15203-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[extracellular space]  ->  a nucleotide sugar[cytosol]
+Accepted   G1IZ1-15177-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-13728-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[extracellular space]  ->  cholesterol[cytosol]
+Accepted   G1IZ1-15695-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit epsilon
+           ATP + H+[extracellular space] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IZ1-13611-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-15258-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[extracellular space] + H+[extracellular space]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IZ1-11815-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter and related zip domain-containing proteins
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Accepted   G1IZ1-11763-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter and related zip domain-containing proteins
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Accepted   G1IZ1-15847-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit b
+           ATP + H+[extracellular space] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IZ1-15828-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit a
+           ATP + H+[extracellular space] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IZ1-11590-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter/spinster transmembrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G1IZ1-15783-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit c
+           ATP + H+[extracellular space] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IZ1-11547-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporters: cora family
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Accepted   G1IZ1-10023-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent ca2+/na+ exchanger nckx1 and related proteins
+           Ca2+[extracellular space] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[extracellular space]
+Accepted   G1IZ1-8337-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-9924-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           Ca2+[extracellular space] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[extracellular space]
+Accepted   G1IZ1-9924-MONOMER    K+                       SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           K+[extracellular space] + Na+[cytosol]  ->  K+[cytosol] + Na+[extracellular space]
+Accepted   G1IZ1-9921-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[extracellular space]  ->  a nucleotide[cytosol]
+Accepted   G1IZ1-9921-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[extracellular space]  ->  guanine[cytosol]
+Accepted   G1IZ1-8322-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-9904-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G1IZ1-9903-MONOMER    Na+                      SECONDARY 
+           membrane//sodium ion transport//transporter activity
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-9889-MONOMER    Cu2+                     UNKNOWN   
+           copper ion transmembrane transporter activity//copper ion transport//integral to membrane
+           Cu2+[extracellular space]  ->  Cu2+[cytosol]
+Accepted   G1IZ1-9793-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[extracellular space]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IZ1-9793-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G1IZ1-9772-MONOMER    a metal cation           UNKNOWN   
+           metal ion binding//metal ion transport
+           a metal cation[extracellular space]  ->  a metal cation[cytosol]
+Accepted   G1IZ1-9741-MONOMER    Na+                      SECONDARY 
+           membrane//sodium ion transport//transporter activity
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-14065-MONOMER    sodium sulfate           SECONDARY 
+           sodium sulfate symporter and related arsenite permeases
+           sodium sulfate[extracellular space] + H+[extracellular space]  ->  sodium sulfate[cytosol] + H+[cytosol]
+Accepted   G1IZ1-13944-MONOMER    Co2+                     UNKNOWN   
+           putative mg2+ and co2+ transporter cord
+           Co2+[extracellular space]  ->  Co2+[cytosol]
+Accepted   G1IZ1-13944-MONOMER    Mg2+                     UNKNOWN   
+           putative mg2+ and co2+ transporter cord
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Accepted   G1IZ1-9500-MONOMER    a nucleotide             UNKNOWN   
+           mitochondrial translation elongation factor ef-tsmt, catalyzes nucleotide exchange on ef-tumt
+           a nucleotide[extracellular space]  ->  a nucleotide[cytosol]
+Accepted   G1IZ1-13792-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[extracellular space] + H+[extracellular space]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IZ1-8130-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-12372-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[extracellular space]  ->  a nucleoside[cytosol]
+Accepted   G1IZ1-12358-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-12331-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-7 and related proteins (clc superfamily)
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G1IZ1-12292-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[extracellular space]  ->  a nucleotide sugar[cytosol]
+Accepted   G1IZ1-12243-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[extracellular space]  ->  choline[cytosol]
+Accepted   G1IZ1-12197-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-12041-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-12024-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[extracellular space]  ->  oxalate[cytosol]
+Accepted   G1IZ1-12024-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[extracellular space]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IZ1-12024-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[extracellular space]  ->  sulfate[cytosol]
+Accepted   G1IZ1-7901-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-7869-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter/spinster transmembrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G1IZ1-7856-MONOMER    an anion                 UNKNOWN   
+           anion exchanger adaptor protein kanadaptin, contains fha domain
+           an anion[extracellular space]  ->  an anion[cytosol]
+Accepted   G1IZ1-14376-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-14372-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporters: cora family
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Accepted   G1IZ1-14339-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-7805-MONOMER    a cation                 UNKNOWN   
+           membrane protein huel (cation efflux superfamily)
+           a cation[cytosol]  <-->  a cation[extracellular space]
+Accepted   G1IZ1-14338-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[extracellular space]  ->  choline[cytosol]
+Accepted   G1IZ1-14334-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Accepted   G1IZ1-10537-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-7742-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter and related zip domain-containing proteins
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Accepted   G1IZ1-10505-MONOMER    a cation                 CHANNEL   
+           ca2+-permeable cation channel osm-9 and related channels (otrpc family)
+           a cation[extracellular space]  <-->  a cation[cytosol]
+Accepted   G1IZ1-10472-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[extracellular space]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IZ1-10472-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G1IZ1-7711-MONOMER    ornithine                UNKNOWN   
+           mitochondrial ornithine transporter
+           ornithine[extracellular space]  ->  ornithine[cytosol]
+Accepted   G1IZ1-14167-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-10451-MONOMER    a cyclic nucleotide      CHANNEL   
+           cyclic nucleotide biosynthetic process//intracellular signaling cascade//ion channel activity//ion transport//membrane//phosphorus-oxygen lyase activity
+           a cyclic nucleotide[extracellular space]  ->  a cyclic nucleotide[cytosol]
+Accepted   G1IZ1-10432-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[extracellular space] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1IZ1-14097-MONOMER    a metal cation           UNKNOWN   
+           metal ion binding//metal ion transport
+           a metal cation[extracellular space]  ->  a metal cation[cytosol]
+Accepted   G1IZ1-14087-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-10308-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-10216-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-10197-MONOMER    a cation                 CHANNEL   
+           cyclic nucleotide-gated cation channel cnga1-3 and related proteins
+           a cation[extracellular space]  <-->  a cation[cytosol]
+Accepted   G1IZ1-10113-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           Ca2+[extracellular space] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[extracellular space]
+Accepted   G1IZ1-10113-MONOMER    K+                       SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           K+[extracellular space] + Na+[cytosol]  ->  K+[cytosol] + Na+[extracellular space]
+Accepted   G1IZ1-10099-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[extracellular space] + H+[extracellular space]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IZ1-12662-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent ca2+/na+ exchanger nckx1 and related proteins
+           Ca2+[extracellular space] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[extracellular space]
+Accepted   G1IZ1-12624-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-12564-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[extracellular space] + H+[extracellular space]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1IZ1-12495-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[extracellular space]  ->  phaseic acid[cytosol]
+Accepted   G1IZ1-12482-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[extracellular space]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IZ1-14575-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-14568-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[extracellular space]  <-->  urea[cytosol]
+Accepted   G1IZ1-14545-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[extracellular space] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1IZ1-14530-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter/spinster transmembrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G1IZ1-14498-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter/spinster transmembrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G1IZ1-14496-MONOMER    Zn2+                     UNKNOWN   
+           putative zinc transporter
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Accepted   G1IZ1-8859-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[extracellular space] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[extracellular space]
+Accepted   G1IZ1-8824-MONOMER    Na+                      SECONDARY 
+           integral to membrane//regulation of ph//sodium ion transport
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-14407-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-8819-MONOMER    a nucleotide             UNKNOWN   
+           mitochondrial translation elongation factor ef-tsmt, catalyzes nucleotide exchange on ef-tumt
+           a nucleotide[extracellular space]  ->  a nucleotide[cytosol]
+Accepted   G1IZ1-8808-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-7 and related proteins (clc superfamily)
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G1IZ1-10993-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[extracellular space]  ->  thiamine[cytosol]
+Accepted   G1IZ1-8643-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-10977-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[extracellular space]  ->  thiamine[cytosol]
+Accepted   G1IZ1-10969-MONOMER    an acid                  UNKNOWN   
+           na+-bile acid cotransporter
+           an acid[extracellular space]  ->  an acid[cytosol]
+Accepted   G1IZ1-10930-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G1IZ1-8562-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IZ1-10794-MONOMER    Zn2+                     UNKNOWN   
+           putative zinc transporter
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Accepted   G1IZ1-13073-MONOMER    Co2+                     UNKNOWN   
+           putative mg2+ and co2+ transporter cord
+           Co2+[extracellular space]  ->  Co2+[cytosol]
+Accepted   G1IZ1-13073-MONOMER    Mg2+                     UNKNOWN   
+           putative mg2+ and co2+ transporter cord
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Unreviewed G1IZ1-8491-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1IZ1-12750-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1IZ1-15071-MONOMER    K+                       CHANNEL   
+           voltage-gated k+ channel kcnq
+           Several possible reactions available for import
+Unreviewed G1IZ1-15035-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IZ1-15032-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IZ1-13200-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1IZ1-13127-MONOMER    K+                       CHANNEL   
+           voltage-gated k+ channel kcnb/kcnc
+           Several possible reactions available for import
+Unreviewed G1IZ1-8971-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1IZ1-13752-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1IZ1-13701-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1IZ1-11928-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1IZ1-8338-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IZ1-9775-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IZ1-14012-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1IZ1-8232-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1IZ1-8102-MONOMER    K+                       UNKNOWN   
+           k+-channel kcnq
+           Several possible reactions available for import
+Unreviewed G1IZ1-12322-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IZ1-12319-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IZ1-14361-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1IZ1-7802-MONOMER    Ca2+                     CHANNEL   
+           t-type voltage-gated ca2+ channel, pore-forming alpha1i subunit
+           Several possible reactions available for import
+Unreviewed G1IZ1-14334-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1IZ1-7713-MONOMER    K+                       CHANNEL   
+           voltage-gated k+ channel kcnb/kcnc
+           Several possible reactions available for import
+Unreviewed G1IZ1-7674-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1IZ1-7676-MONOMER    K+                       CHANNEL   
+           ca2+-activated k+ channel slowpoke, alpha subunit
+           Several possible reactions available for import
+Unreviewed G1IZ1-14520-MONOMER    Fe2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1IZ1-14520-MONOMER    Mn2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1IZ1-11026-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1IZ1-11005-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1IZ1-10769-MONOMER    Ca2+                     CHANNEL   
+           t-type voltage-gated ca2+ channel, pore-forming alpha1i subunit
+           Several possible reactions available for import
+
+
+Unreviewed G1IZ1-7728-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-7751-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-7800-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-7814-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-7847-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-7992-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8018-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8082-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8099-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8116-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8146-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8222-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8251-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8448-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8513-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8525-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8533-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8614-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8653-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8654-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8726-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8827-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8916-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8929-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8977-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-8978-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9071-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9109-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9207-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9217-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9448-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9456-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9569-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9582-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9616-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9629-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9693-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9770-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9811-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9864-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9948-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-9998-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10030-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10137-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10177-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10215-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10275-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10409-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10447-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10538-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10548-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10587-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10590-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10647-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10658-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10732-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10881-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10884-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10928-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-10946-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11025-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11153-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11264-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11296-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11298-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11603-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11625-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11669-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11686-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11767-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11824-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11829-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11837-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11874-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11954-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-11962-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12100-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12126-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12141-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12228-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12279-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12296-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12313-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12507-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12519-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12565-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12568-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12601-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12631-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12741-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12784-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12822-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12834-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12839-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12899-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-12975-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13060-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13132-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13203-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13219-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13384-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13444-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13597-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13650-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13672-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13684-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13709-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13780-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13846-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13851-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-13985-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14178-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14195-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14276-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14380-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14452-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14537-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14600-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14669-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14699-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14721-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-14841-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-15060-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-15066-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-15105-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-15122-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-15264-MONOMER  (no substrate identified)
+Unreviewed G1IZ1-15289-MONOMER  (no substrate identified)

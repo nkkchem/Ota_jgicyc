@@ -1,0 +1,236 @@
+# Description of Fields in this File
+# ==================================
+#  
+# Pathway Name: a user friendly name of the pathway.
+# Pathway Frame-id: a unique identifier of the pathway in the PGDB.
+# Pathway Class Name: a user friendly name of a class that contains the pathway.
+# Pathway Class Frame-id: a unique identifier of the Class Name in the PGDB.
+# Pathway Score: A number from 0-1.0 indicating the strength of the evidence supporting the inference of this pathway, where 1.0 means very strong evidence.
+# Pathway Frequency Score: the sum of the number of enzymes in the PGDB catalyzing the reactions of the pathway divided by the number of reactions in the pathway. This value can be larger than 1 since there might be several enzymes catalyzing the same reaction.
+# Pathway Abundance: the abundance of the pathway given the abundance values of the genes for this pathway in the annotation file.
+# Reason to Keep: a keyword describing the reason the pathway was kept.
+# Pathway URL: the pathway URL for the Biocyc.org Web site.
+#  
+# The pathways in this file are sorted by Pathway Score.
+
+
+Pathway Name | Pathway Frame-id | Pathway Class Name | Pathway Class Frame-id | Pathway Score | Pathway Frequency Score | Pathway Abundance | Reason to Keep | Pathway URL
+
+L-ascorbate degradation V|PWY-6959|L-Ascorbate Degradation|Ascorbate-Degradation|0.0|0.6|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6959
+chlorogenic acid biosynthesis II|PWY-6040|||0.15112129|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6040
+NAD/NADH phosphorylation and dephosphorylation|PWY-5083|||0.15621778|4.6666665|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5083
+GA12 biosynthesis|PWY-5034|||0.16098092|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5034
+phenylethanol biosynthesis|PWY-5751|||0.16925554|0.4|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5751
+formate assimilation into 5,10-methylenetetrahydrofolate|PWY-1722|||0.17138927|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-1722
+stachyose degradation|PWY-6527|||0.17426142|1.2857143|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6527
+4-hydroxybenzoate biosynthesis V|PWY-6435|4-Hydroxybenzoate Biosynthesis|4-Hydroxybenzoate-Biosynthesis|0.17600001|0.2|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6435
+L-phenylalanine biosynthesis III (cytosolic, plants)|PWY-7432|L-phenylalanine Biosynthesis|PHENYLALANINE-SYN|0.17641555|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7432
+L-citrulline degradation|CITRULLINE-DEG-PWY|||0.18069123|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=CITRULLINE-DEG-PWY
+pyruvate fermentation to ethanol I|PWY-5480|pyruvate fermentation to ethanol|Pyruvate-Ethanol-Fermentation|0.18504353|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5480
+GDP-mannose biosynthesis|PWY-5659|||0.1865474|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5659
+pyrimidine deoxyribonucleotide phosphorylation|PWY-7197|||0.19138756|2.25|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7197
+protein ubiquitylation|PWY-7511|||0.19555557|18.444445|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7511
+folate transformations II|PWY-3841|Folate Transformations|Folate-Transformations|0.19824697|1.1818181|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-3841
+fatty acid beta-oxidation II (peroxisome)|PWY-5136|||0.1994017|1.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5136
+pyridine nucleotide cycling (plants)|PWY-5381|||0.20089526|0.72727275|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5381
+thiamine diphosphate biosynthesis IV (eukaryotes)|PWY-6908|Thiamine Diphosphate Biosynthesis|Thiamin-Diphosphate-Biosynthesis|0.20149505|1.3333334|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6908
+L-selenocysteine biosynthesis II (archaea and eukaryotes)|PWY-6281|L-selenocysteine Biosynthesis|Selenocysteine-Biosynthesis|0.21156943|0.75|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6281
+tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate|PWY-6613|||0.21156943|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6613
+salidroside biosynthesis|PWY-6802|||0.21156943|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6802
+phospholipid remodeling (phosphatidate, yeast)|PWY-7417|||0.21156943|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7417
+phosphatidylethanolamine biosynthesis II|PWY4FS-6|Phosphatidylethanolamine Biosynthesis|PhosphatidylethanolamineBiosynthesis|0.21377517|0.75|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY4FS-6
+chlorophyll a degradation II|PWY-6927|Chlorophyll a Degradation|Chlorophyll-A-Degradation|0.22000001|0.2|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6927
+nitrate reduction II (assimilatory)|PWY-381|Nitrate Reduction|Nitrate-Reduction|0.22484045|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-381
+L-methionine degradation I (to L-homocysteine)|METHIONINE-DEG1-PWY|L-methionine Degradation|METHIONINE-DEG|0.2286414|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=METHIONINE-DEG1-PWY
+phospholipases|LIPASYN-PWY|||0.23250465|0.8|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=LIPASYN-PWY
+NAD biosynthesis I (from aspartate)|PYRIDNUCSYN-PWY|NAD Biosynthesis|NAD-SYN|0.23850417|0.8333333|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PYRIDNUCSYN-PWY
+L-proline biosynthesis I|PROSYN-PWY|L-proline Biosynthesis|PROLINE-SYN|0.23889576|1.25|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PROSYN-PWY
+adenosine nucleotides degradation II|SALVADEHYPOX-PWY|Adenosine Nucleotides Degradation|Adenosine-Nucleotides-Degradation|0.25450465|1.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=SALVADEHYPOX-PWY
+Rubisco shunt|PWY-5723|||0.2548105|2.1|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5723
+3-phosphoinositide biosynthesis|PWY-6352|||0.25602996|1.125|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6352
+D-galactose degradation V (Leloir pathway)|PWY66-422|Galactose Degradation|GALACTOSE-DEGRADATION|0.2585935|1.4|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY66-422
+galactolipid biosynthesis I|PWY-401|||0.26062778|0.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-401
+urea cycle|PWY-4984|||0.26201838|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-4984
+C4 photosynthetic carbon assimilation cycle, NADP-ME type|PWY-241|||0.27320358|1.8|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-241
+propanoyl-CoA degradation II|PWY-7574|||0.28262776|0.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7574
+octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|PWY-7388|||0.28414047|4.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7388
+aerobic respiration II (cytochrome c) (yeast)|PWY-7279|||0.28619736|5.75|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7279
+D-myo-inositol (1,4,5)-trisphosphate biosynthesis|PWY-6351|||0.29015258|2.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6351
+7-dehydroporiferasterol biosynthesis|PWY-7155|||0.29027852|0.4|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7155
+vitamin E biosynthesis (tocopherols)|PWY-1422|||0.29178905|0.42857143|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-1422
+heptadecane biosynthesis|PWY-6622|||0.29333335|0.33333334|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6622
+heme a biosynthesis|PWY-7856|||0.29333335|0.25|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7856
+sphingomyelin metabolism|PWY3DJ-11281|||0.29333335|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY3DJ-11281
+L-phenylalanine degradation V|PWY-7158|L-phenylalanine Degradation|PHENYLALANINE-DEG|0.29333335|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7158
+jasmonic acid biosynthesis|PWY-735|Jasmonates Biosynthesis|Jasmonates-Biosynthesis|0.29333335|0.47368422|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-735
+protein S-nitrosylation and denitrosylation|PWY-7798|||0.29333335|0.2|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7798
+ceramide degradation|PWY-6483|||0.29333335|0.33333334|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6483
+UDP-beta-L-rhamnose biosynthesis|PWY-3261|||0.29333335|0.33333334|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-3261
+diacylglycerol and triacylglycerol biosynthesis|TRIGLSYN-PWY|||0.3070595|0.85714287|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=TRIGLSYN-PWY
+phosphatidate metabolism, as a signaling molecule|PWY-7039|||0.3171324|2.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7039
+chitin degradation II (Vibrio)|PWY-6902|Chitin Degradation|Chitin-Degradation|0.32502013|0.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6902
+sucrose biosynthesis II|PWY-7238|Sucrose Biosynthesis|Sucrose-Biosynthesis|0.33769512|1.25|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7238
+phosphatidate biosynthesis (yeast)|PWY-7411|||0.34525555|1.2|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7411
+[2Fe-2S] iron-sulfur cluster biosynthesis|PWY-7250|||0.35200003|1.2|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7250
+1,4-dihydroxy-2-naphthoate biosynthesis|PWY-5837|1,4-Dihydroxy-2-Naphthoate Biosynthesis|DHNA-Biosynthesis|0.37599453|0.42857143|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5837
+biotin-carboxyl carrier protein assembly|PWY0-1264|||0.3771275|0.75|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY0-1264
+pyrimidine deoxyribonucleotides biosynthesis from CTP|PWY-7210|||0.38728923|17.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7210
+pyrimidine deoxyribonucleotides dephosphorylation|PWY-7206|||0.38750777|1.6666666|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7206
+L-ornithine biosynthesis I|GLUTORN-PWY|L-Ornithine Biosynthesis|L-Ornithine-Biosynthesis|0.39415413|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLUTORN-PWY
+purine deoxyribonucleosides salvage|PWY-7224|||0.40065396|1.6666666|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7224
+L-lysine biosynthesis VI|PWY-5097|L-lysine Biosynthesis|LYSINE-SYN|0.4131215|1.1428572|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5097
+gluconeogenesis I|GLUCONEO-PWY|Gluconeogenesis|Gluconeogenesis|0.4135896|1.9230769|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=GLUCONEO-PWY
+seleno-amino acid biosynthesis|PWY-6936|||0.4163924|1.6|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6936
+protein N-glycosylation (eukaryotic, high mannose)|MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS|||0.41684216|2.1052632|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS
+glutathione-peroxide redox reactions|PWY-4081|||0.4343796|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-4081
+Arg/N-end rule pathway (eukaryotic)|PWY-7799|||0.43540147|1.3571428|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7799
+fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|PWY-6837|||0.43662778|0.8|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6837
+selenate reduction|PWY-6932|||0.44000003|0.4|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6932
+4-aminobenzoate biosynthesis|PWY-6543|||0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6543
+glutaminyl-tRNAgln biosynthesis via transamidation|PWY-5921|||0.44000003|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5921
+CMP phosphorylation|PWY-7205|||0.44000003|2.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7205
+sulfoquinovosyl diacylglycerol biosynthesis|PWYQT-4427|||0.44000003|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWYQT-4427
+NADH repair|PWY-6938|||0.44000003|0.25|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6938
+phospholipid remodeling (phosphatidylethanolamine, yeast)|PWY-7409|Phosphatidylethanolamine Biosynthesis|PhosphatidylethanolamineBiosynthesis|0.44000003|1.75|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7409
+thioredoxin pathway|THIOREDOX-PWY|||0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=THIOREDOX-PWY
+heme degradation I|PWY-5874|||0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5874
+pseudouridine degradation|PWY-6019|||0.44000003|2.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6019
+baicalein degradation (hydrogen peroxide detoxification)|PWY-7214|Reactive Oxygen Species Degradation|REACTIVE-OXYGEN-SPECIES-DEGRADATION|0.44000003|2.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7214
+lipid IVA biosynthesis|NAGLIPASYN-PWY|||0.44000003|2.1666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=NAGLIPASYN-PWY
+phosphatidylethanolamine biosynthesis I|PWY-5669|Phosphatidylethanolamine Biosynthesis|PhosphatidylethanolamineBiosynthesis|0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5669
+fructose 2,6-bisphosphate biosynthesis|PWY66-423|||0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY66-423
+GDP-L-fucose biosynthesis II (from L-fucose)|PWY-6|||0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6
+serotonin and melatonin biosynthesis|PWY-6030|||0.44000003|0.5|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6030
+glycine biosynthesis I|GLYSYN-PWY|Glycine Biosynthesis|GLYCINE-SYN|0.4663375|3.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLYSYN-PWY
+geranyl diphosphate biosynthesis|PWY-5122|||0.4663375|7.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5122
+acetaldehyde biosynthesis I|PWY-6333|Acetaldehyde Biosynthesis|Acetaldehyde-Biosynthesis|0.4663375|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6333
+glycogen biosynthesis I (from ADP-D-Glucose)|GLYCOGENSYNTH-PWY|Glycogen and Starch Biosynthesis|GLYCOGEN-BIOSYN|0.46868196|2.75|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLYCOGENSYNTH-PWY
+L-glutamine degradation I|GLUTAMINDEG-PWY|L-glutamine Degradation|GLUTAMINE-DEG|0.47150373|9.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLUTAMINDEG-PWY
+4-hydroxyphenylpyruvate biosynthesis|PWY-5886|||0.47150373|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5886
+CO2 fixation into oxaloacetate (anaplerotic)|PWYQT-4429|||0.4749957|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWYQT-4429
+phytochromobilin biosynthesis|PWY-7170|||0.47666666|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7170
+L-aspartate biosynthesis|ASPARTATESYN-PWY|L-aspartate Biosynthesis|ASPARTATE-SYN|0.4784876|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ASPARTATESYN-PWY
+geranylgeranyl diphosphate biosynthesis|PWY-5120|||0.4784876|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5120
+L-aspartate degradation I|ASPARTATE-DEG1-PWY|L-aspartate Degradation|ASPARTATE-DEG|0.4784876|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ASPARTATE-DEG1-PWY
+D-mannose degradation|MANNCAT-PWY|||0.4784876|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=MANNCAT-PWY
+UDP-alpha-D-glucose biosynthesis I|PWY-7343|||0.48870832|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7343
+pentose phosphate pathway (non-oxidative branch)|NONOXIPENT-PWY|Pentose Phosphate Pathways|Pentose-Phosphate-Cycle|0.49957672|2.2|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=NONOXIPENT-PWY
+L-alanine biosynthesis III|PWY0-1021|L-alanine Biosynthesis|ALANINE-SYN|0.5027649|3.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY0-1021
+L-glutamine biosynthesis I|GLNSYN-PWY|Ammonia Assimilation|Ammonia-Assimilation|0.5027649|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLNSYN-PWY
+UDP-alpha-D-galactose biosynthesis|PWY-7344|||0.5027649|4.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7344
+tetrapyrrole biosynthesis I (from glutamate)|PWY-5188|Tetrapyrrole Biosynthesis|Tetrapyrrole-Biosynthesis|0.52311444|1.8333334|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5188
+L-alanine degradation III|ALANINE-DEG3-PWY|L-alanine Degradation|ALANINE-DEG|0.5255707|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ALANINE-DEG3-PWY
+L-alanine biosynthesis II|ALANINE-SYN2-PWY|L-alanine Biosynthesis|ALANINE-SYN|0.5255707|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ALANINE-SYN2-PWY
+S-adenosyl-L-methionine biosynthesis|SAM-PWY|||0.5255707|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=SAM-PWY
+dopamine degradation|PWY6666-2|||0.550803|1.2|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY6666-2
+L-tryptophan biosynthesis|TRPSYN-PWY|L-tryptophan Biosynthesis|TRYPTOPHAN-BIOSYNTHESIS|0.5557006|1.8333334|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=TRPSYN-PWY
+L-tyrosine biosynthesis II|PWY-3461|L-tyrosine Biosynthesis|TYROSINE-SYN|0.55804926|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-3461
+long-chain fatty acid activation|PWY-5143|||0.5650466|5.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5143
+guanosine ribonucleotides de novo biosynthesis|PWY-7221|||0.56934106|1.75|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7221
+4-aminobutanoate degradation I|PWY-6535|4-Aminobutanoate Degradation|4-Aminobutyraye-Degradation|0.57334435|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6535
+ammonia assimilation cycle II|PWY-6964|Ammonia Assimilation|Ammonia-Assimilation|0.57334435|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6964
+photorespiration|PWY-181|||0.5759076|2.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-181
+C4 photosynthetic carbon assimilation cycle, NAD-ME type|PWY-7115|||0.57632434|1.4444444|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7115
+pyrimidine ribonucleosides salvage I|PWY-7193|||0.5839873|1.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7193
+ethanol degradation II|PWY66-21|Ethanol Degradation|Ethanol-Degradation|0.5847163|1.6666666|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY66-21
+D-myo-inositol (1,4,5)-trisphosphate degradation|PWY-6363|||0.5866667|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6363
+starch biosynthesis|PWY-622|Glycogen and Starch Biosynthesis|GLYCOGEN-BIOSYN|0.59166235|1.9|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-622
+zymosterol biosynthesis|PWY-6074|||0.5923359|1.5833334|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6074
+L-isoleucine biosynthesis I (from threonine)|ILEUSYN-PWY|L-isoleucine Biosynthesis|ISOLEUCINE-SYN|0.6059426|1.2857143|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ILEUSYN-PWY
+coenzyme A biosynthesis I (prokaryotic)|COA-PWY|Coenzyme A Biosynthesis|CoA-Biosynthesis|0.61350375|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=COA-PWY
+biotin biosynthesis from 8-amino-7-oxononanoate I|PWY0-1507|Biotin Biosynthesis|BIOTIN-SYN|0.6177129|0.6666667|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY0-1507
+pyrimidine deoxyribonucleotides de novo biosynthesis I|PWY-7184|Pyrimidine Deoxyribonucleotides De Novo Biosynthesis|Pyrimid-Deoxyribonucleot-De-Novo-Biosyn|0.6208461|16.444445|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7184
+aerobic respiration I (cytochrome c)|PWY-3781|||0.6239328|9.25|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-3781
+L-glutamate biosynthesis V|PWY-4341|L-glutamate Biosynthesis|GLUTAMATE-SYN|0.64392376|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-4341
+phosphatidylinositol biosynthesis II (eukaryotes)|PWY-7625|||0.64392376|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7625
+heme b biosynthesis I (aerobic)|HEME-BIOSYNTHESIS-II|Heme b Biosynthesis|Heme-b-Biosynthesis|0.6592225|2.25|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=HEME-BIOSYNTHESIS-II
+monoacylglycerol metabolism (yeast)|PWY-7420|||0.66|4.0|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7420
+UDP-N-acetyl-D-glucosamine biosynthesis II|UDPNACETYLGALSYN-PWY|UDP-N-acetyl-D-glucosamine Biosynthesis|UDP-NAc-Glucosamine-Biosynthesis|0.67479295|1.75|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=UDPNACETYLGALSYN-PWY
+starch degradation II|PWY-6724|Starch Degradation|Starch-Degradation|0.6844445|1.8888888|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6724
+Calvin-Benson-Bassham cycle|CALVIN-PWY|||0.70033014|2.3076923|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=CALVIN-PWY
+CDP-diacylglycerol biosynthesis I|PWY-5667|CDP-diacylglycerol Biosynthesis|CDP-diacylglycerol-Biosynthesis|0.7253815|2.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5667
+guanosine deoxyribonucleotides de novo biosynthesis I|PWY-7226|Guanosine Deoxyribonucleotides De Novo Biosynthesis|Guanosine-Deoxy-Denovo-Biosynthesis|0.74510074|3.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7226
+adenosine deoxyribonucleotides de novo biosynthesis|PWY-7227|Adenosine Deoxyribonucleotides De Novo Biosynthesis|Adenosine-Deoxy-Denovo-Bbiosynthesis|0.74510074|3.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7227
+glycerol-3-phosphate shuttle|PWY-6118|||0.74510074|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6118
+triacylglycerol degradation|LIPAS-PWY|||0.77|3.75|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=LIPAS-PWY
+2-oxoglutarate decarboxylation to succinyl-CoA|PWY-5084|||0.78470844|3.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5084
+chlorophyll a biosynthesis I|PWY-5086|Chlorophyll a Biosynthesis|Chlorophyll-a-Biosynthesis|0.7933443|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5086
+flavin biosynthesis I (bacteria and plants)|RIBOSYN2-PWY|Flavin Biosynthesis|Flavin-Biosynthesis|0.79847914|2.3333333|1.0|PASSING-SCORE|http://biocyc.org/META/new-image?type=PATHWAY&object=RIBOSYN2-PWY
+chlorinated phenols degradation|PWY-6197|||0.8|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6197
+gondoate biosynthesis (anaerobic)|PWY-7663|||0.8|2.25|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7663
+5-aminoimidazole ribonucleotide biosynthesis I|PWY-6121|5-Aminoimidazole Ribonucleotide Biosynthesis|AIR-Biosynthesis|0.80580693|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6121
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|PWY-6147|6-Hydroxymethyl-Dihydropterin Diphosphate Biosynthesis|6-HM-Dihydropterin-PP-Biosynthesis|0.83860576|4.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6147
+glutathione-glutaredoxin redox reactions|GLUT-REDOX-PWY|||0.8462777|0.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLUT-REDOX-PWY
+UDP-alpha-D-glucuronate biosynthesis (from UDP-glucose)|PWY-7346|||0.8462777|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7346
+guanine and guanosine salvage II|PWY-6599|Guanine and Guanosine Salvage|Guanine-Guanosine-Salvage|0.8462777|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6599
+nitric oxide biosynthesis I (plants)|PWY-6845|Nitric Oxide Biosynthesis|Nitric-Oxide-Biosynthesis|0.8462777|4.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6845
+lupeol biosynthesis|PWY-112|||0.8462777|11.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-112
+acyl carrier protein activation|PWY-6012-1|||0.8462777|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6012-1
+fatty acid beta-oxidation III (unsaturated, odd number)|PWY-5137|||0.8462777|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5137
+L-asparagine biosynthesis II|ASPARAGINESYN-PWY|L-asparagine Biosynthesis|ASPARAGINE-SYN|0.8462777|4.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ASPARAGINESYN-PWY
+L-asparagine degradation I|ASPARAGINE-DEG1-PWY|L-asparagine Degradation|ASPARAGINE-DEG|0.8462777|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ASPARAGINE-DEG1-PWY
+phytyl diphosphate biosynthesis|PWY-5063|Phytyl Diphosphate Biosynthesis|Phytyl-Diphosphate-Biosynthesis|0.8462777|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5063
+putrescine biosynthesis III|PWY-46|Putrescine Biosynthesis|Putrescine-Biosynthesis|0.8462777|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-46
+L-arginine biosynthesis II (acetyl cycle)|ARGSYNBSUB-PWY|L-arginine Biosynthesis|ARGININE-SYN|0.85692954|1.1111112|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ARGSYNBSUB-PWY
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|PWY-6282|Palmitoleate Biosynthesis|Palmitoleate-Biosynthesis|0.86496353|2.1111112|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6282
+3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|CHLOROPHYLL-SYN|Chlorophyllide a Biosynthesis|Chlorophyllide-a-Biosynthesis|0.89891464|2.2222223|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=CHLOROPHYLL-SYN
+L-homoserine biosynthesis|HOMOSERSYN-PWY|||0.90100247|1.6666666|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=HOMOSERSYN-PWY
+pyruvate decarboxylation to acetyl CoA|PYRUVDEHYD-PWY|||0.91961104|3.3333333|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PYRUVDEHYD-PWY
+glycine cleavage|GLYCLEAV-PWY|Glycine Degradation|GLYCINE-DEG|0.91961104|2.3333333|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLYCLEAV-PWY
+phytol degradation|PWY66-389|||0.92499995|2.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY66-389
+UTP and CTP dephosphorylation II|PWY-7177|UTP and CTP Dephosphorylation|UTP-CTP-Dephosphorylation|0.92549306|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7177
+CDP-diacylglycerol biosynthesis II|PWY0-1319|CDP-diacylglycerol Biosynthesis|CDP-diacylglycerol-Biosynthesis|0.95381206|2.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY0-1319
+chlorophyll a biosynthesis II|PWY-5064|Chlorophyll a Biosynthesis|Chlorophyll-a-Biosynthesis|0.9603197|1.4|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5064
+L-leucine biosynthesis|LEUSYN-PWY|L-leucine Biosynthesis|LEUCINE-SYN|0.97277606|1.3333334|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=LEUSYN-PWY
+UTP and CTP dephosphorylation I|PWY-7185|UTP and CTP Dephosphorylation|UTP-CTP-Dephosphorylation|0.98855144|2.2|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7185
+pentose phosphate pathway (oxidative branch) I|OXIDATIVEPENT-PWY|Pentose Phosphate Pathways|Pentose-Phosphate-Cycle|0.98965675|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=OXIDATIVEPENT-PWY
+UMP biosynthesis I|PWY-5686|UMP Biosynthesis|UMP-Biosynthesis|0.9897434|1.1666666|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5686
+phosphate acquisition|PWY-6348|||1.0|4.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6348
+Ac/N-end rule pathway|PWY-7800|||1.0|5.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7800
+chorismate biosynthesis from 3-dehydroquinate|PWY-6163|Chorismate Biosynthesis|Chorismate-Biosynthesis|1.0|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6163
+glycerol degradation I|PWY-4261|Glycerol Degradation|GLYCEROL-DEG|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-4261
+spermidine biosynthesis I|BSUBPOLYAMSYN-PWY|Spermidine Biosynthesis|Spermidine-Biosynthesis|1.0|2.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=BSUBPOLYAMSYN-PWY
+L-histidine biosynthesis|HISTSYN-PWY|L-histidine Biosynthesis|HISTIDINE-SYN|1.0|1.4|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=HISTSYN-PWY
+spermine biosynthesis|ARGSPECAT-PWY|||1.0|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ARGSPECAT-PWY
+L-serine biosynthesis|SERSYN-PWY|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=SERSYN-PWY
+adenine and adenosine salvage VI|PWY-6619|Adenine and Adenosine Salvage|Adenine-Adenosine-Salvage|1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6619
+phosphopantothenate biosynthesis I|PANTO-PWY|Phosphopantothenate Biosynthesis|Pantothenate-Biosynthesis|1.0|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PANTO-PWY
+L-asparagine biosynthesis I|ASPARAGINE-BIOSYNTHESIS|L-asparagine Biosynthesis|ASPARAGINE-SYN|1.0|4.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=ASPARAGINE-BIOSYNTHESIS
+adenosine ribonucleotides de novo biosynthesis|PWY-7219|||1.0|8.25|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7219
+glutathione biosynthesis|GLUTATHIONESYN-PWY|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLUTATHIONESYN-PWY
+pyrimidine deoxyribonucleosides salvage|PWY-7199|||1.0|1.4|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7199
+tRNA charging|TRNA-CHARGING-PWY|||1.0|2.2380953|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=TRNA-CHARGING-PWY
+folate polyglutamylation|PWY-2161|||1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-2161
+pyrimidine ribonucleosides salvage II|PWY-6556|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6556
+GDP-L-fucose biosynthesis I (from GDP-D-mannose)|PWY-66|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-66
+L-threonine biosynthesis|HOMOSER-THRESYN-PWY|L-threonine Biosynthesis|THREONINE-BIOSYNTHESIS|1.0|1.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=HOMOSER-THRESYN-PWY
+3-dehydroquinate biosynthesis I|PWY-6164|3-Dehydroquinate Biosynthesis|3-Dehydroquinate-Biosynthesis|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6164
+UTP and CTP de novo biosynthesis|PWY-7176|||1.0|2.3333333|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7176
+myo-inositol biosynthesis|PWY-2301|||1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-2301
+palmitate biosynthesis II (bacteria and plants)|PWY-5971|Palmitate Biosynthesis|Palmitate-Biosynthesis|1.0|4.225806|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5971
+stearate biosynthesis II (bacteria and plants)|PWY-5989|Stearate Biosynthesis|Stearate-Biosynthesis|1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5989
+cis-vaccenate biosynthesis|PWY-5973|||1.0|1.8|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5973
+formaldehyde oxidation II (glutathione-dependent)|PWY-1801|Formaldehyde Oxidation|Formaldehyde-Oxidation|1.0|0.6666667|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-1801
+fatty acid elongation -- saturated|FASYN-ELONG-PWY|||1.0|5.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=FASYN-ELONG-PWY
+L-cysteine biosynthesis I|CYSTSYN-PWY|L-cysteine Biosynthesis|CYSTEINE-SYN|1.0|3.5|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=CYSTSYN-PWY
+inosine-5'-phosphate biosynthesis II|PWY-6124|Inosine-5'-phosphate Biosynthesis|IMP-Biosynthesis|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6124
+sulfate activation for sulfonation|PWY-5340|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5340
+sulfate reduction II (assimilatory)|SULFMETII-PWY|Sulfate Reduction|Sulfate-Reduction|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=SULFMETII-PWY
+thiosulfate disproportionation IV (rhodanese)|PWY-5350|Thiosulfate Disproportionation|Thiosulfate-Disproportionation|1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5350
+lipoate biosynthesis and incorporation I|PWY0-501|Lipoate Biosynthesis|Lipoate-Biosynthesis|1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY0-501
+fatty acid biosynthesis initiation I|PWY-4381|||1.0|3.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-4381
+palmitoleate biosynthesis II (plants and bacteria)|PWY-5366|Palmitoleate Biosynthesis|Palmitoleate-Biosynthesis|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5366
+acyl-ACP thioesterase pathway|PWY-5142|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5142
+oleate biosynthesis I (plants)|PWY-5147|Oleate Biosynthesis|Oleate-Biosynthesis|1.0|2.3333333|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5147
+1,3-beta-D-glucan biosynthesis|PWY-6773|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6773
+PRPP biosynthesis I|PWY0-662|PRPP Biosynthesis|PRPP-Biosynthesis|1.0|3.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY0-662
+photosynthesis light reactions|PWY-101|||1.0|5.75|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-101
+urea degradation II|PWY-5704|Urea Degradation|Urea-Degradation|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5704
+pyrimidine nucleobases salvage I|PWY-7183|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-7183
+epoxysqualene biosynthesis|PWY-5670|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5670
+crepenynate biosynthesis|PWY-6013|||1.0|2.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6013
+hypusine biosynthesis|PWY-5905|||1.0|1.8|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-5905
+tetrahydrofolate biosynthesis|PWY-6614|||1.0|2.3333333|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6614
+CMP-N-glycoloylneuraminate biosynthesis|PWY-6144|||1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=PWY-6144
+L-valine biosynthesis|VALSYN-PWY|L-valine Biosynthesis|VALINE-BIOSYNTHESIS|1.0|1.75|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=VALSYN-PWY
+glycine biosynthesis III|GLYSYN-ALA-PWY|Glycine Biosynthesis|GLYCINE-SYN|1.0|1.0|1.0|COMPLETE-PATHWAY|http://biocyc.org/META/new-image?type=PATHWAY&object=GLYSYN-ALA-PWY
